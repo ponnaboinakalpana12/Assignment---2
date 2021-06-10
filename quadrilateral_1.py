@@ -9,7 +9,7 @@ Original file is located at
 
 import matplotlib.pyplot as plt
  
-M, I, S, T = (0, 0), (3.5, 0), (5.18,6.27), (2.42, 9.63)
+M, I, S, T = (0, 0), (3.5, 0), (5.18,6.27), (2.42, 9.03)
  
  
 def line_gen(C1, C2):
